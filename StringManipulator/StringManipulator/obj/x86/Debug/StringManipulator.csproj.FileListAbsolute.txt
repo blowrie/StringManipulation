@@ -1,0 +1,5 @@
+/Users/bryanlowrie/Desktop/Coding/StringManipulator/StringManipulator/bin/Debug/StringManipulator.exe
+/Users/bryanlowrie/Desktop/Coding/StringManipulator/StringManipulator/bin/Debug/StringManipulator.pdb
+/Users/bryanlowrie/Desktop/Coding/StringManipulator/StringManipulator/obj/x86/Debug/StringManipulator.csproj.CoreCompileInputs.cache
+/Users/bryanlowrie/Desktop/Coding/StringManipulator/StringManipulator/obj/x86/Debug/StringManipulator.exe
+/Users/bryanlowrie/Desktop/Coding/StringManipulator/StringManipulator/obj/x86/Debug/StringManipulator.pdb
